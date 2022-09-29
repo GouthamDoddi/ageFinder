@@ -1,0 +1,28 @@
+.myNav {
+    background-color: blue;
+}
+
+.myIcon {
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    color:aliceblue
+}
+
+.card {
+    border-radius: 10px;
+    background: #e0e0e0;
+    box-shadow:  11px 11px 22px #b8b8b8,
+             -11px -11px 22px #ffffff;
+    width: 42rem;
+}
+
+.card-body {
+    width: 95%;
+    align-items: center;
+    height: 20vw;
+    padding-top: 4vw;
+}
+
+.container {
+    margin-top: 10%;
+}
